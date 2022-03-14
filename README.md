@@ -2,6 +2,10 @@
 - 👀 I’m interested in Classic mins and derivatives, EMS, EFI Speeduino and Rover MEMS 1.6 SPI
 - 🌱 I’m currently learning about engine manangement systems,
 - 💞️ I’m looking to EMS, MEMS , Work: O365 ...
+Betaflight
+Drones
+Cloud Computing
+
 - 📫 How to reach me rluv73@gmail.com
 
 <!---
